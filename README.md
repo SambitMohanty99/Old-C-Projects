@@ -1,2 +1,2 @@
 # Old-CPP-Projects
-Includes a set of old C++ Projects.
+Includes a set of old projects made using C.
